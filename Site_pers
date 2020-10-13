@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Project name="site_perso">
+        <Folder name="images">
+            <File name="plane.jpg" />
+            <File name="bdx.jpg" />
+            <File name="bk.jpg" />
+            <File name="me.jpg" />
+        </Folder>
+        <Folder name="css">
+            <File name="main.css" />
+        </Folder>
+        <File name="index.html" />
+    </Project>
+</NotepadPlus>
